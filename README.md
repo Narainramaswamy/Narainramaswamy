@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Narainramaswamy
+- 👋 Hi, I’m @Narain
 - 🌱 I’m currently learning Python Programming
 
 
