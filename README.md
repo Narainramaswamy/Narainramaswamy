@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Narain
-- 🌱 I’m currently learning Python Programming
+- 🌱 I’m currently working with Python programming and SQL
 
 
 <!---
